@@ -1,1 +1,1 @@
-# ruleset-demo-dry-run
+# Code Scanning Ruleset Demo
